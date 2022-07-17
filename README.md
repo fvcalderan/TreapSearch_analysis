@@ -1,4 +1,4 @@
-# Treap_analysis
+# TreapSearch_analysis
 An analysis of the Treap Search algorithm
 
 ## Article link
